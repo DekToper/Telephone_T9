@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam_Telephone", "WindowsFormsApp26\Exam_Telephone.csproj", "{B5ED4FAF-6D08-4888-96C7-DEF36ED5855E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5ED4FAF-6D08-4888-96C7-DEF36ED5855E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5ED4FAF-6D08-4888-96C7-DEF36ED5855E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5ED4FAF-6D08-4888-96C7-DEF36ED5855E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5ED4FAF-6D08-4888-96C7-DEF36ED5855E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6977F070-E363-404C-96CD-67CFE0BC8282}
+	EndGlobalSection
+EndGlobal

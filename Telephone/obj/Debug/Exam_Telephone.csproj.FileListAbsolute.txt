@@ -1,0 +1,8 @@
+C:\Users\Діма\source\repos\WindowsFormsApp26\WindowsFormsApp26\bin\Debug\WindowsFormsApp26.exe.config
+C:\Users\Діма\source\repos\WindowsFormsApp26\WindowsFormsApp26\bin\Debug\WindowsFormsApp26.exe
+C:\Users\Діма\source\repos\WindowsFormsApp26\WindowsFormsApp26\bin\Debug\WindowsFormsApp26.pdb
+C:\Users\Діма\source\repos\WindowsFormsApp26\WindowsFormsApp26\obj\Debug\WindowsFormsApp26.Form1.resources
+C:\Users\Діма\source\repos\WindowsFormsApp26\WindowsFormsApp26\obj\Debug\WindowsFormsApp26.Properties.Resources.resources
+C:\Users\Діма\source\repos\WindowsFormsApp26\WindowsFormsApp26\obj\Debug\Exam_Telephone.csproj.GenerateResource.cache
+C:\Users\Діма\source\repos\WindowsFormsApp26\WindowsFormsApp26\obj\Debug\WindowsFormsApp26.exe
+C:\Users\Діма\source\repos\WindowsFormsApp26\WindowsFormsApp26\obj\Debug\WindowsFormsApp26.pdb
